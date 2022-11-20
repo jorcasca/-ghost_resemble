@@ -22,5 +22,4 @@ The new version used was Ghost version: 5.23.0 and old version was 3.42.
 
 Inside the result folder are the feature folders. Inside each one you will find folders with the format E<scenario> where scenario corresponds to the scenario number. Finally, within each one you will find the comparison screenshots and the corresponding report.
 
-![image](https://user-images.githubusercontent.com/31069035/202921328-9495be20-b2c5-411c-8794-ecb69e8ea78e.png)
-
+![image](https://user-images.githubusercontent.com/31069035/202922305-78746b63-e279-49d1-97ff-434380b4f688.png)
