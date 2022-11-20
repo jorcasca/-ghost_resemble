@@ -53,7 +53,7 @@ async function runScenario(feature, scenarios, datetime, b, resultInfo) {
     // ADJUNTAR AL REPORTE
     fs.writeFileSync(
       `./results/${feature}/E${i}/report.html`,
-      createReport("${feature}", i, datetime, resultInfo)
+      createReport(feature, i, datetime, resultInfo)
     );
     fs.copyFileSync("./index.css", `./results/${feature}/E${i}/index.css`);
   }
